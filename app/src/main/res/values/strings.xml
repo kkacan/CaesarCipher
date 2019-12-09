@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Caesar Cipher</string>
+    <string name="encrypt">encrypt</string>
+    <string name="decrypt">decrypt</string>
+    <string name="clear_all">clear all</string>
+    <string name="shift_key">Shift key:</string>
+</resources>
+
