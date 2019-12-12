@@ -1,4 +1,4 @@
-# Caesar Chiper
+# Caesar Cipher
 
 Android aplikacija za kriptiranje i dekriptiranje teksta pomoću cezarove šifre.
 
