@@ -11,6 +11,6 @@ Android aplikacija za kriptiranje i dekriptiranje teksta pomoću cezarove šifre
 
 >Autor: Kristijan Kačan
 
-[ln1]: <caesar_cipher.apk>
+[ln1]: <https://github.com/kkacan/CaesarCipher/raw/master/caesar_cipher.apk>
 
 
