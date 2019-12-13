@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-Android aplikacija za kriptiranje i dekriptiranje teksta pomoću cezarove šifre.
+Android aplikacija za kriptiranje i dekriptiranje teksta pomoću cezarove šifre. 
 
 ### Instalacija
 [APK][ln1]
